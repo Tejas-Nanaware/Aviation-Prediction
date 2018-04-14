@@ -36,8 +36,6 @@ def nonFatalAutoGraphs(name)
   
 Furthermore, from the dataset, we get the GPS Co-ordinates for the aircraft crash that can be used to plot a graph of the global accidents on the map itself. This can be visualised as  
   
-____
-  
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Tejas-Nanaware/28.embed"></iframe>  
-  
-____
+<div>
+    <a href="https://plot.ly/~Tejas-Nanaware/28/?share_key=aV9n10DNmM05Tv4fGdQlBL" target="_blank" title="Multiple Mapbox" style="display: block; text-align: center;"><img src="https://plot.ly/~Tejas-Nanaware/28.png?share_key=aV9n10DNmM05Tv4fGdQlBL" alt="Multiple Mapbox" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</div>
